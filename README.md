@@ -1,4 +1,5 @@
 # Hospital Management
+Not ready yet..
 
 The Hospital management system provides a well-tuned management system that helps to automate the workflow and activities of a hospital. This system manages the administrative and financial activities of the hospital along with all the medical facilities. There are four users in this system- Admin, Doctor, Patient. Admin can manage all the other users of the system and maintains the database of the system. Whole system supports the vital activities of daily tasks and interactions in a smooth manner.
 
