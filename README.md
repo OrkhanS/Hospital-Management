@@ -38,11 +38,11 @@ Admins:
 4. Admins should be able to block or unblock the patients in the system.
 
 ## Class diagram
-![alt text](https://github.com/OrkhanS/Hospital-Management-System/blob/master/UML.jpg)
+![alt text](https://github.com/OrkhanS/Hospital-Management/blob/main/UML.jpg)
 
 ## Simple Sequence Diagram for only Patient
 #### Diagrams for Admin and Doctor can be done similarly.
-![alt text](https://github.com/OrkhanS/Hospital-Management-System/blob/master/SequenceDiagramPatient.png)
+![alt text](https://github.com/OrkhanS/Hospital-Management/blob/main/SequenceDiagramPatient.png)
 
 
 ## License
